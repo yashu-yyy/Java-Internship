@@ -21,3 +21,6 @@ Output Screenshots:
 - StudentManagementOP1.png
 - StudentManagementOP2.png
 - StudentManagementOP3.png
+
+Author:
+G Yashaswi
